@@ -1,6 +1,6 @@
 # ¡Buenas! Soy Álvaro López Guerrero 👋
 
-Actualmente soy un estudiante de desarrollo de aplicaiones web en CPIFP desglose IES Campanillas
+Soy de Málaga, actualmente me encuentro estudiando desarrollo de aplicaiones web en CPIFP desglose IES Campanillas. Me gusta el desarrollo web y la cibersegurirdad.
 
 ## Redes de contacto:
 - Instagram 
