@@ -1,5 +1,9 @@
-### Hi there 👋
+# ¡Buenas! Soy Álvaro López Guerrero 👋
 
+Actualmente soy un estudiante de desarrollo de aplicaiones web en CPIFP desglose IES Campanillas
+
+## Redes de contacto:
+- Instagram 
 <!--
 **Alvalogue7/Alvalogue7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
